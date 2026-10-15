@@ -1,0 +1,5 @@
+C:\Users\DAVIES\Documents\Codex\2026-10-15\introdu-o-x20-ao-longo-deste\outputs\GestaoInventario\AplicacaoNova\GestaoInventario.exe
+C:\Users\DAVIES\Documents\Codex\2026-10-15\introdu-o-x20-ao-longo-deste\outputs\GestaoInventario\AplicacaoNova\GestaoInventario.dll
+C:\Users\DAVIES\Documents\Codex\2026-10-15\introdu-o-x20-ao-longo-deste\outputs\GestaoInventario\AplicacaoNova\GestaoInventario.deps.json
+C:\Users\DAVIES\Documents\Codex\2026-10-15\introdu-o-x20-ao-longo-deste\outputs\GestaoInventario\AplicacaoNova\GestaoInventario.runtimeconfig.json
+C:\Users\DAVIES\Documents\Codex\2026-10-15\introdu-o-x20-ao-longo-deste\outputs\GestaoInventario\AplicacaoNova\GestaoInventario.pdb

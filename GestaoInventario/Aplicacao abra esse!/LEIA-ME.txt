@@ -1,0 +1,10 @@
+INVENTARIO DE EQUIPAMENTOS
+
+1. Extraia todo o ZIP para uma pasta no computador.
+2. Abra Iniciar.bat (ou GestaoInventario.exe).
+3. Requisito: .NET 8 Desktop Runtime para Windows x64.
+
+Os dados são guardados automaticamente em:
+%LOCALAPPDATA%\SIAInventario\inventario.db
+
+Para ver ou alterar o código-fonte, abra GestaoInventario.sln no Visual Studio 2022.
